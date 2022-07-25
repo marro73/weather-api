@@ -1,4 +1,4 @@
-const { uviData } = require("../datasets/uviDataJSON");
+const { uviData } = require("../datasets/uviData");
 const { capitalizer } = require("../utils/capitalizer");
 
 //Messstation
