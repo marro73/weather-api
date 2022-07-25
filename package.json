@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "name": "wetterdaten",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "nodemon /src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

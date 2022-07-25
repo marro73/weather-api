@@ -1,0 +1,621 @@
+{
+  "name": "Thermischer Gefahrenindex",
+  "last_update": "2022-07-21T07:30:00",
+  "next_update": "2022-07-22T07:30:00",
+  "content": [
+    {
+      "city": "Saarbrücken",
+      "forecast": {
+        "dayafter_to_09MEZ": "keine",
+        "today_21MEZ": "keine",
+        "today_09MEZ": "keine",
+        "tomorrow_09MEZ": "gering",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "mittel",
+        "tomorrow_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "today_15MEZ": "gering",
+        "dayafter_to_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "dayafter_to_15MEZ": "mittel"
+      }
+    },
+    {
+      "forecast": {
+        "dayafter_to_15MEZ": "mittel",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "tomorrow_09MEZ": "gering",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "hoch",
+        "today_15MEZ": "mittel",
+        "tomorrow_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "dayafter_to_03MEZ": "keine",
+        "today_21MEZ": "keine",
+        "today_09MEZ": "gering",
+        "dayafter_to_09MEZ": "gering"
+      },
+      "city": "Mannheim"
+    },
+    {
+      "city": "Konstanz",
+      "forecast": {
+        "dayafter_to_15MEZ": "mittel",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_03MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "hoch",
+        "tomorrow_09MEZ": "gering",
+        "today_03MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "mittel",
+        "today_09MEZ": "keine",
+        "today_21MEZ": "keine",
+        "dayafter_to_09MEZ": "gering"
+      }
+    },
+    {
+      "city": "Düsseldorf",
+      "forecast": {
+        "dayafter_to_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "keine",
+        "tomorrow_15MEZ": "gering",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_09MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "dayafter_to_15MEZ": "gering",
+        "dayafter_to_09MEZ": "gering",
+        "today_09MEZ": "keine",
+        "today_21MEZ": "keine"
+      }
+    },
+    {
+      "forecast": {
+        "today_09MEZ": "keine",
+        "today_21MEZ": "keine",
+        "dayafter_to_09MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "dayafter_to_15MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_03MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "keine",
+        "tomorrow_09MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "keine",
+        "today_03MEZ": "keine"
+      },
+      "city": "List auf Sylt"
+    },
+    {
+      "city": "Nürnberg",
+      "forecast": {
+        "dayafter_to_09MEZ": "keine",
+        "today_09MEZ": "keine",
+        "today_21MEZ": "keine",
+        "dayafter_to_03MEZ": "keine",
+        "tomorrow_09MEZ": "mittel",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "hoch",
+        "today_15MEZ": "mittel",
+        "tomorrow_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "dayafter_to_15MEZ": "gering",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine"
+      }
+    },
+    {
+      "forecast": {
+        "today_21MEZ": "keine",
+        "today_09MEZ": "keine",
+        "dayafter_to_09MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "dayafter_to_15MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "keine",
+        "today_03MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_09MEZ": "keine",
+        "tomorrow_15MEZ": "keine",
+        "dayafter_to_03MEZ": "keine"
+      },
+      "city": "Norderney"
+    },
+    {
+      "city": "Erfurt",
+      "forecast": {
+        "today_09MEZ": "gering",
+        "today_21MEZ": "keine",
+        "dayafter_to_09MEZ": "keine",
+        "dayafter_to_15MEZ": "gering",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_03MEZ": "keine",
+        "tomorrow_15MEZ": "mittel",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_09MEZ": "keine",
+        "today_03MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "gering"
+      }
+    },
+    {
+      "city": "Frankfurt/Main",
+      "forecast": {
+        "dayafter_to_09MEZ": "gering",
+        "today_21MEZ": "keine",
+        "today_09MEZ": "gering",
+        "today_15MEZ": "gering",
+        "tomorrow_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "hoch",
+        "tomorrow_09MEZ": "mittel",
+        "dayafter_to_03MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "dayafter_to_15MEZ": "mittel",
+        "tomorrow_21MEZ": "keine"
+      }
+    },
+    {
+      "city": "Cottbus",
+      "forecast": {
+        "dayafter_to_03MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "mittel",
+        "today_03MEZ": "keine",
+        "tomorrow_15MEZ": "mittel",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_09MEZ": "gering",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_15MEZ": "keine",
+        "dayafter_to_09MEZ": "keine",
+        "today_09MEZ": "mittel",
+        "today_21MEZ": "keine"
+      }
+    },
+    {
+      "forecast": {
+        "dayafter_to_15MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_03MEZ": "keine",
+        "tomorrow_09MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "gering",
+        "today_03MEZ": "keine",
+        "today_09MEZ": "keine",
+        "today_21MEZ": "keine",
+        "dayafter_to_09MEZ": "keine"
+      },
+      "city": "Hamburg"
+    },
+    {
+      "city": "Weimar",
+      "forecast": {
+        "dayafter_to_15MEZ": "gering",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "gering",
+        "tomorrow_09MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "mittel",
+        "today_03MEZ": "keine",
+        "dayafter_to_03MEZ": "keine",
+        "today_21MEZ": "keine",
+        "today_09MEZ": "gering",
+        "dayafter_to_09MEZ": "keine"
+      }
+    },
+    {
+      "forecast": {
+        "today_21MEZ": "keine",
+        "today_09MEZ": "gering",
+        "dayafter_to_09MEZ": "gering",
+        "tomorrow_21MEZ": "gering",
+        "after_threedays_03MEZ": "keine",
+        "dayafter_to_15MEZ": "mittel",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "hoch",
+        "tomorrow_09MEZ": "mittel",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "mittel",
+        "today_03MEZ": "keine",
+        "dayafter_to_03MEZ": "keine"
+      },
+      "city": "Freiburg"
+    },
+    {
+      "forecast": {
+        "tomorrow_21MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "dayafter_to_15MEZ": "keine",
+        "dayafter_to_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "gering",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "keine",
+        "tomorrow_09MEZ": "keine",
+        "today_09MEZ": "gering",
+        "today_21MEZ": "keine",
+        "dayafter_to_09MEZ": "keine"
+      },
+      "city": "Kiel"
+    },
+    {
+      "city": "Hannover",
+      "forecast": {
+        "today_21MEZ": "keine",
+        "today_09MEZ": "keine",
+        "dayafter_to_09MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "dayafter_to_15MEZ": "gering",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_09MEZ": "keine",
+        "tomorrow_15MEZ": "gering",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "gering",
+        "today_03MEZ": "keine",
+        "dayafter_to_03MEZ": "keine"
+      }
+    },
+    {
+      "city": "Berlin",
+      "forecast": {
+        "today_21MEZ": "keine",
+        "today_09MEZ": "gering",
+        "dayafter_to_09MEZ": "keine",
+        "dayafter_to_15MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "gering",
+        "tomorrow_09MEZ": "keine",
+        "today_15MEZ": "gering",
+        "tomorrow_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "dayafter_to_03MEZ": "keine"
+      }
+    },
+    {
+      "city": "Magdeburg",
+      "forecast": {
+        "tomorrow_21MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "dayafter_to_15MEZ": "gering",
+        "today_15MEZ": "mittel",
+        "tomorrow_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_09MEZ": "keine",
+        "tomorrow_15MEZ": "gering",
+        "dayafter_to_03MEZ": "keine",
+        "today_21MEZ": "keine",
+        "today_09MEZ": "gering",
+        "dayafter_to_09MEZ": "keine"
+      }
+    },
+    {
+      "forecast": {
+        "tomorrow_21MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "dayafter_to_15MEZ": "gering",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "mittel",
+        "today_03MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_09MEZ": "mittel",
+        "tomorrow_15MEZ": "hoch",
+        "dayafter_to_03MEZ": "keine",
+        "today_21MEZ": "keine",
+        "today_09MEZ": "gering",
+        "dayafter_to_09MEZ": "gering"
+      },
+      "city": "München"
+    },
+    {
+      "forecast": {
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "mittel",
+        "today_03MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "hoch",
+        "tomorrow_09MEZ": "mittel",
+        "dayafter_to_03MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_15MEZ": "gering",
+        "dayafter_to_09MEZ": "gering",
+        "today_21MEZ": "keine",
+        "today_09MEZ": "gering"
+      },
+      "city": "Stuttgart"
+    },
+    {
+      "forecast": {
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_09MEZ": "gering",
+        "tomorrow_15MEZ": "mittel",
+        "today_15MEZ": "mittel",
+        "tomorrow_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "dayafter_to_03MEZ": "keine",
+        "dayafter_to_15MEZ": "gering",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_09MEZ": "keine",
+        "today_21MEZ": "keine",
+        "today_09MEZ": "gering"
+      },
+      "city": "Leipzig"
+    },
+    {
+      "city": "Schwerin",
+      "forecast": {
+        "dayafter_to_15MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "keine",
+        "tomorrow_09MEZ": "keine",
+        "today_15MEZ": "gering",
+        "tomorrow_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "dayafter_to_03MEZ": "keine",
+        "today_21MEZ": "keine",
+        "today_09MEZ": "keine",
+        "dayafter_to_09MEZ": "keine"
+      }
+    },
+    {
+      "forecast": {
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "keine",
+        "today_03MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "keine",
+        "tomorrow_09MEZ": "keine",
+        "dayafter_to_03MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "dayafter_to_15MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_09MEZ": "keine",
+        "today_21MEZ": "keine",
+        "today_09MEZ": "keine"
+      },
+      "city": "Sankt Peter-Ording"
+    },
+    {
+      "forecast": {
+        "after_threedays_03MEZ": "keine",
+        "dayafter_to_15MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_03MEZ": "keine",
+        "tomorrow_09MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "gering",
+        "today_03MEZ": "keine",
+        "today_09MEZ": "gering",
+        "today_21MEZ": "keine",
+        "dayafter_to_09MEZ": "keine"
+      },
+      "city": "Rostock"
+    },
+    {
+      "forecast": {
+        "tomorrow_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "today_15MEZ": "gering",
+        "tomorrow_15MEZ": "gering",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_09MEZ": "keine",
+        "dayafter_to_03MEZ": "keine",
+        "dayafter_to_15MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_09MEZ": "keine",
+        "today_21MEZ": "keine",
+        "today_09MEZ": "mittel"
+      },
+      "city": "Arkona"
+    },
+    {
+      "forecast": {
+        "dayafter_to_09MEZ": "keine",
+        "today_21MEZ": "keine",
+        "today_09MEZ": "gering",
+        "today_15MEZ": "mittel",
+        "tomorrow_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "tomorrow_09MEZ": "gering",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "mittel",
+        "dayafter_to_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "dayafter_to_15MEZ": "gering"
+      },
+      "city": "Dresden"
+    },
+    {
+      "forecast": {
+        "dayafter_to_15MEZ": "gering",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_03MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_09MEZ": "mittel",
+        "tomorrow_15MEZ": "hoch",
+        "tomorrow_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "today_15MEZ": "mittel",
+        "today_09MEZ": "gering",
+        "today_21MEZ": "keine",
+        "dayafter_to_09MEZ": "keine"
+      },
+      "city": "Regensburg"
+    },
+    {
+      "city": "Köln/Bonn",
+      "forecast": {
+        "tomorrow_21MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "dayafter_to_15MEZ": "mittel",
+        "dayafter_to_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "gering",
+        "tomorrow_15MEZ": "mittel",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_09MEZ": "gering",
+        "today_09MEZ": "keine",
+        "today_21MEZ": "keine",
+        "dayafter_to_09MEZ": "keine"
+      }
+    },
+    {
+      "city": "Osnabrück",
+      "forecast": {
+        "tomorrow_15MEZ": "gering",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_09MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "today_15MEZ": "gering",
+        "dayafter_to_03MEZ": "keine",
+        "dayafter_to_15MEZ": "gering",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_09MEZ": "keine",
+        "today_21MEZ": "keine",
+        "today_09MEZ": "keine"
+      }
+    },
+    {
+      "city": "Kassel",
+      "forecast": {
+        "today_09MEZ": "keine",
+        "today_21MEZ": "keine",
+        "dayafter_to_09MEZ": "gering",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_15MEZ": "gering",
+        "dayafter_to_03MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_09MEZ": "keine",
+        "tomorrow_15MEZ": "gering",
+        "today_03MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "gering"
+      }
+    },
+    {
+      "city": "Würzburg",
+      "forecast": {
+        "dayafter_to_15MEZ": "mittel",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "today_03MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "mittel",
+        "tomorrow_15MEZ": "hoch",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_09MEZ": "mittel",
+        "dayafter_to_03MEZ": "keine",
+        "today_21MEZ": "keine",
+        "today_09MEZ": "gering",
+        "dayafter_to_09MEZ": "gering"
+      }
+    },
+    {
+      "city": "Waren",
+      "forecast": {
+        "tomorrow_09MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "today_15MEZ": "keine",
+        "dayafter_to_03MEZ": "keine",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_15MEZ": "keine",
+        "dayafter_to_09MEZ": "keine",
+        "today_21MEZ": "keine",
+        "today_09MEZ": "gering"
+      }
+    },
+    {
+      "city": "Ulm",
+      "forecast": {
+        "dayafter_to_03MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "hoch",
+        "tomorrow_09MEZ": "gering",
+        "today_15MEZ": "mittel",
+        "tomorrow_03MEZ": "keine",
+        "today_03MEZ": "keine",
+        "dayafter_to_15MEZ": "gering",
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_09MEZ": "keine",
+        "today_09MEZ": "keine",
+        "today_21MEZ": "keine"
+      }
+    },
+    {
+      "city": "Bremen",
+      "forecast": {
+        "after_threedays_03MEZ": "keine",
+        "tomorrow_21MEZ": "keine",
+        "dayafter_to_15MEZ": "keine",
+        "today_03MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "gering",
+        "tomorrow_09MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "gering",
+        "dayafter_to_03MEZ": "keine",
+        "today_21MEZ": "keine",
+        "today_09MEZ": "keine",
+        "dayafter_to_09MEZ": "keine"
+      }
+    },
+    {
+      "forecast": {
+        "dayafter_to_09MEZ": "keine",
+        "today_09MEZ": "gering",
+        "today_21MEZ": "keine",
+        "dayafter_to_03MEZ": "keine",
+        "tomorrow_03MEZ": "keine",
+        "today_15MEZ": "gering",
+        "today_03MEZ": "keine",
+        "tomorrow_09MEZ": "keine",
+        "dayafter_to_21MEZ": "keine",
+        "tomorrow_15MEZ": "gering",
+        "after_threedays_03MEZ": "keine",
+        "dayafter_to_15MEZ": "gering",
+        "tomorrow_21MEZ": "keine"
+      },
+      "city": "Wernigerode"
+    }
+  ],
+  "sender": "Deutscher Wetterdienst - Medizin-Meteorologie",
+  "forecast_day": "2022-07-21"
+}
