@@ -1,9 +1,9 @@
 const express = require("express");
-const v1BiowetterRouter = require("./v1/routes/biowetterRoutes");
-const v1OrtRouter = require("./v1/routes/ortRoutes");
-const v1PollenRouter = require("./v1/routes/pollenRoutes");
-const v1GFIRouter = require("./v1/routes/gfiRoutes");
-const v1UVIRouter = require("./v1/routes/uviRoutes");
+const v1BiowetterRouter = require("./api/v1/routes/biowetterRoutes");
+const v1OrtRouter = require("./api/v1/routes/ortRoutes");
+const v1PollenRouter = require("./api/v1/routes/pollenRoutes");
+const v1GFIRouter = require("./api/v1/routes/gfiRoutes");
+const v1UVIRouter = require("./api/v1/routes/uviRoutes");
 
 const app = express();
 const PORT = process.env.PORT;
