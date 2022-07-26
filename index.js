@@ -6,7 +6,7 @@ const v1GFIRouter = require("./api/v1/routes/gfiRoutes");
 const v1UVIRouter = require("./api/v1/routes/uviRoutes");
 var cors = require("cors");
 const app = express();
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 3000;
 app.use("/api/v1/biowetter", v1BiowetterRouter);
 app.use("/api/v1/pollen", v1PollenRouter);
 app.use("/api/v1/gfi", v1GFIRouter);

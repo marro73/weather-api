@@ -1,12 +1,12 @@
 const pollenService = require("../services/pollenService");
 
-const getPollenByStation = (req, res) => {
-  let station = req.query.station;
+const getPollenByRegion = (req, res) => {
+  let region = req.query.region;
 
-  const getPBS = pollenService.getPollenByStation(station);
+  const getPBR = pollenService.getPollenByRegion(region);
   res.send({
     status: "OK",
-    data: getPBS,
+    data: getPBR,
   });
 };
 
@@ -18,6 +18,6 @@ const getAllPollen = (req, res) => {
   });
 };
 module.exports = {
-  getPollenByStation,
+  getPollenByRegion,
   getAllPollen,
 };

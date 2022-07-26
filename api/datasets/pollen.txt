@@ -1,0 +1,48 @@
+
+"region_name": "Bayern",
+"region_id": 120
+ number of part regions : 4
+----------------
+"region_name": "Baden-Württemberg"
+"region_id": 110,
+ number of part regions : 3
+ ----------
+"region_name": "Rheinland-Pfalz und Saarland",
+"region_id": 100
+number of part regions : 3
+-----------------
+"region_name": "Hessen"
+"region_id": 90,
+number of part regions : 2
+------------------
+"region_name": "Sachsen",
+"region_id": 80
+number of part regions : 2
+------------------
+"region_name": "Thüringen"
+"region_id": 70
+number of part regions : 2
+----------
+"region_name": "Sachsen-Anhalt"
+"region_id": 60
+number of part regions : 2
+----------
+ "region_name": "Brandenburg und Berlin "
+ "region_id": 50
+ number of part regions : 1
+ ------------------
+"region_name": "Nordrhein-Westfalen"
+"region_id": 40
+ number of part regions : 3
+ ------------------
+ "region_name": "Niedersachsen und Bremen",
+ "region_id": 30
+ number of part regions : 2
+----------
+"region_name": "Mecklenburg-Vorpommern "
+"region_id": 20
+number of part regions : 1
+ ------------------
+ "region_name": "Schleswig-Holstein und Hamburg"
+ "region_id": 10
+ number of part regions : 2

@@ -1,15 +1,16 @@
 const { pollenData } = require("../datasets/pollenData");
 
-//Messstation
-const getPollenByStation = (station) => {
-  var dis;
+//regions
+const getPollenByRegion = (region) => {
+  var dis = [];
   if (
-    pollenData.some((i) => {
+    pollenData.map((i) => {
       // console.log(i.partregion_id);
-      if (i.partregion_id == station) {
+      if (i.region_id == region) {
         // console.log(i);
+        dis.push(i);
 
-        return (dis = i);
+        return dis;
       }
     })
   ) {
@@ -22,6 +23,6 @@ const getAllPollen = () => {
   return pollenData;
 };
 module.exports = {
-  getPollenByStation,
+  getPollenByRegion,
   getAllPollen,
 };
