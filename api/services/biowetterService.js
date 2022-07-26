@@ -5,7 +5,7 @@ const { biowetter } = require("../datasets/biowetter");
 const getOrt = async (ort) => {
   try {
     const res = await axios.get(
-      `http://127.0.0.1:3000/api/v1/ort/sbc?city=${ort}`
+      `https://wetter-api.herokuapp.com/api/v1/ort/sbc?city=${ort}`
     );
     return res.data;
   } catch (err) {
