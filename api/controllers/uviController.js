@@ -10,6 +10,14 @@ const getUVIByStation = (req, res) => {
   });
 };
 
+const getUVIAll = (req, res) => {
+  const getAll = uviService.getUVIAll();
+  res.send({
+    status: "OK",
+    data: getAll,
+  });
+};
 module.exports = {
   getUVIByStation,
+  getUVIAll,
 };
