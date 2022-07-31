@@ -54,7 +54,7 @@ const getBW = async (ort) => {
   if (
     biowetter.zone.some((i) => {
       if (i.id === ort) {
-        return (data = i.filter());
+        return (data = i);
       }
     })
   ) {
