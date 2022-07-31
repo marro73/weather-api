@@ -22,8 +22,6 @@ const getUVIAll = () => {
   return uviData;
 };
 
-console.log(getUVIAll());
-
 module.exports = {
   getUVIByStation,
   getUVIAll,
