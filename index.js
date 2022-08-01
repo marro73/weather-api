@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 3000;
 download.downloadAll();
 
 // to update all datasets without scheduling,
-download.downloadOnce();
+// download.downloadOnce();
 app.use("/api/v1/biowetter", v1BiowetterRouter);
 app.use("/api/v1/pollen", v1PollenRouter);
 app.use("/api/v1/gfi", v1GFIRouter);
