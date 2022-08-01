@@ -14,7 +14,11 @@ app.use("/api/v1/gfi", v1GFIRouter);
 app.use("/api/v1/uvi", v1UVIRouter);
 download.downloadAll();
 app.use("/api/v1/ort", v1OrtRouter);
-app.use(cors());
+app.use(
+  cors({
+    origin: "*",
+  })
+);
 app.listen(PORT, () => {
   console.log(`APi is listening on port ${PORT}`);
 });
