@@ -38,14 +38,4 @@ const downloadAll = () => {
   });
 };
 
-const downloadOnce = () => {
-  download(gefahrenindex, "gfiDataJSON.json");
-
-  download(biowetter, "biowetterJSON.json");
-
-  download(Pollenflug, "pollenD.json");
-
-  download(UVI, "uviDataJSON.json");
-};
-
-module.exports = { downloadAll, downloadOnce };
+module.exports = { downloadAll };

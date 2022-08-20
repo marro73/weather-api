@@ -4,21 +4,17 @@ const v1OrtRouter = require("./api/v1/routes/ortRoutes");
 const v1PollenRouter = require("./api/v1/routes/pollenRoutes");
 const v1GFIRouter = require("./api/v1/routes/gfiRoutes");
 const v1UVIRouter = require("./api/v1/routes/uviRoutes");
-const download = require("./download");
+const download = require("./api/datasets/downloader");
 var cors = require("cors");
 const app = express();
 app.use(cors());
 const PORT = process.env.PORT || 3000;
 download.downloadAll();
 
-// to update all datasets without scheduling,
-// download.downloadOnce();
 app.use("/api/v1/biowetter", v1BiowetterRouter);
 app.use("/api/v1/pollen", v1PollenRouter);
 app.use("/api/v1/gfi", v1GFIRouter);
 app.use("/api/v1/uvi", v1UVIRouter);
-download.downloadAll();
-
 app.use("/api/v1/ort", v1OrtRouter);
 
 app.listen(PORT, () => {
